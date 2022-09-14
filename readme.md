@@ -1,6 +1,6 @@
 # FFYISH HOME
 
-![profile]("./profile/ffyish.png")
+![profile](profile/ffyish.png)
 
 
 ## tree
